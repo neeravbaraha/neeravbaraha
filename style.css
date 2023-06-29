@@ -1,0 +1,124 @@
+/* CSS REset */
+body {
+  margin: 0px;
+  padding: 0px;
+  background: url(img/gym.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-color: black;
+}
+
+.left {
+  /* border: 2px solid rebeccapurple; */
+  color: aliceblue;
+  display: inline-block;
+  position: relative;
+}
+.mid {
+  /* border: 2px solid rgb(255, 255, 255); */
+  color: azure;
+  display: block;
+  margin: -91px auto;
+  width: 33%;
+  position: relative;
+}
+.right {
+  /* border: 2px solid rgb(146, 2, 2); */
+  color: blueviolet;
+  position: absolute;
+  right: 4px;
+  top: 0px;
+  display: block;
+}
+.navi {
+  display: inline-block;
+}
+.navi li {
+  display: inline-block;
+  font-size: 20px;
+}
+.navi li a {
+  color: white;
+  text-decoration: none;
+  padding: 34px 23px;
+}
+.navi li a:hover {
+  text-decoration: underline;
+}
+.left img {
+  width: 100px;
+  border-radius: 3px solid grey;
+  filter: invert(100%);
+}
+.name {
+  text-align: center;
+  line-height: 1px;
+}
+.btn {
+  margin: 0px;
+  padding: 3px;
+  border-radius: 4px;
+  background-color: black;
+  color: white;
+}
+.btn:hover {
+  color: aquamarine;
+  cursor: pointer;
+}
+
+.container {
+  border: 3px solid white;
+  display: inline-block;
+  margin: 139px;
+  padding: 80px;
+  color: white;
+  border-radius: 30px;
+}
+
+.form input {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+
+}
+.b1 {
+    border-radius: 9px;
+    width: 206px;
+    margin: -3px;
+    padding: 22px;
+    background-color: black;
+    font-size: 21px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande", "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    color: white;
+    border: 2px solid yellowgreen;
+    height: 5px
+    /* text-align: center; */
+    
+}
+.b1:hover {
+  text-decoration: aqua;
+  border-radius: 0px;
+  background-color: black;
+  color: aqua;
+  cursor: pointer;
+  border: 2px solid whitesmoke;
+}
+
+.container h3{
+  color: azure;
+  margin: 3px;
+  text-align: center;
+  
+}
+.form b1{
+  display: block;
+  margin: auto;
+  width: 23px;
+}
+.para{
+  color: white;
+  display:block;
+  border: 2px solid red;
+  margin: 139px;
+}
