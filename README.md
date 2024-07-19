@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @neeravbaraha
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning HTML CSS JS.
-
-
+if (INTERESTED){
+printf("I will work for you");
+}
+else{
+printf("NAHI KARENGEY NAHI KARENGEY")
+}
 <!---
 neeravbaraha/neeravbaraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
