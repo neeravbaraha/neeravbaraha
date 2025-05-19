@@ -67,8 +67,8 @@
 
 ### 📬 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://linkedin.com/in/nirabbaraha)  
-[![Gmail](https://img.shields.io/badge/-nirabbaraha@gmail.com-D14836?logo=gmail&style=flat-square)](mailto:nirabbaraha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/nirab-baraha/)  
+[![Gmail](https://img.shields.io/badge/-nirabbaraha@gmail.com-D14836?logo=gmail&style=flat-square)](mailto:neeravbaraha07@gmail.com)
 
 ---
 
