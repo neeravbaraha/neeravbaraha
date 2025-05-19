@@ -16,18 +16,7 @@
 - 🧠 Passionate about clean code, backend systems, and AI-proof developer skills  
 - 💬 Ask me about anything Java, Web Dev, or CSIT syllabus!
 
----
 
-### 💼 Current Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| **Java DSA Sheet** | Java | 80+ structured problems with comments and solutions |
-| **College Result API** | Django + DRF | Backend API with models, serializers, JWT auth |
-| **Personal Portfolio** | React + Tailwind | Minimal responsive developer portfolio |
-| **Mini Projects** | HTML, JS, Python | Weather app, calculator, terminal tools |
-
-📌 [See My Repositories →](https://github.com/neeravbaraha?tab=repositories)
 
 ---
 
